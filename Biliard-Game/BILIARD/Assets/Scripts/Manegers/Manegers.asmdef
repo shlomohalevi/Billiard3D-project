@@ -1,0 +1,18 @@
+{
+    "name": "Manegers",
+    "references": [
+        "GUID:51de9b2d12c164c4e805a64f65327309",
+        "GUID:ae2eb84a5c32e5544933566f28e08791",
+        "GUID:ffacf73eb255575488dcf020e7e59e60",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

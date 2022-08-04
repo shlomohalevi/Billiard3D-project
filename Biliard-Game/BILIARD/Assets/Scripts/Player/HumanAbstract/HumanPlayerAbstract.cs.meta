@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42200164272542e448e088c6065ea83a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cue: {instanceID: 0}
+  - cueBall: {instanceID: 0}
+  - vcam1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cue
+  - WallCollider
+  - WallCamBoundry
+  - PlayerBall
+  - ComputerBall
+  - PhysicalHole
+  - ButtomTable
+  - CueBall
+  - Ball
+  - WallColider
+  - TableSurface
+  - DetectCueForce
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cue
+  - WallColliders
+  - WallCamBoundry
+  - ComputerBall
+  - LineRenderer
+  - CueBall
+  - PlayerBall
+  - Pocket
+  - PhysicalHole
+  - WallToBlendTo
+  - TableSurface
+  - CueColliderToAvoidCollitions
+  - Ball
+  - Walls Decoration
+  - DetectMouseForce
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LineRenderer
+    uniqueID: 77272127
+    locked: 0

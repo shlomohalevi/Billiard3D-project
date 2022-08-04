@@ -1,0 +1,21 @@
+{
+    "name": "Setting",
+    "references": [
+        "GUID:ffacf73eb255575488dcf020e7e59e60",
+        "GUID:51de9b2d12c164c4e805a64f65327309",
+        "GUID:ae2eb84a5c32e5544933566f28e08791",
+        "GUID:6f2e1e30c157102489d0a88524ef2800",
+        "GUID:ad4d6842cc6824a41bcdd9ae97a410d3",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
